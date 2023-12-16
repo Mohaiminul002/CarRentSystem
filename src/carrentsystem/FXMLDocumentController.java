@@ -17,7 +17,7 @@ import javafx.scene.layout.AnchorPane;
 
 /**
  *
- * @author Hp
+ * @author HP Mohai
  */
 public class FXMLDocumentController implements Initializable {
     
